@@ -1,6 +1,6 @@
 ## HTML Table of Content
 
-#### 1. Installing/Setting up VS Code
+#### 1. Installing/Setting up VS Code & Live Server
 
 #### 2. Why HTML was created? or even needed? what problem did HTML solve?
 
@@ -41,7 +41,7 @@ span
 <br />
 ```
 
-#### 8. Phrase tags
+#### 8. Phrase/Formatting tags
 
 ```
 em
@@ -54,6 +54,8 @@ strike
 mark
 code
 pre
+sub
+sup
 ```
 
 #### 9. HTML attributes
@@ -102,3 +104,7 @@ textarea
 button
 checkbox
 ```
+
+#### 15. Iframe
+
+#### 16. Comments in html
