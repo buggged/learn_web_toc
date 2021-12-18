@@ -17,6 +17,10 @@
 
 #### 5. Title tag in head
 
+```
+<title> </title>
+```
+
 #### 6. Block Elements
 
 ```
@@ -33,10 +37,8 @@ footer
 #### 7. Inline Element
 
 ```
-a
 span
-br
-hr
+<br />
 ```
 
 #### 8. Phrase tags
@@ -52,4 +54,51 @@ strike
 mark
 code
 pre
+```
+
+#### 9. HTML attributes
+
+```
+ Extra information on html tags are called html attributes
+```
+
+#### 10. Images
+
+```
+img
+```
+
+#### 11. Tables
+
+```
+table
+thead
+tbody
+tr
+th
+td
+```
+
+#### 12. Lists
+
+```
+ul
+li
+```
+
+#### 13. Links
+
+```
+a
+link (style file) eg. <link rel="stylesheet" href="">
+script (js file) eg. <script src=""></script>
+```
+
+#### 14. Forms
+
+```
+input (text, number, date, radio, color, file....)
+textarea
+button
+checkbox
 ```
