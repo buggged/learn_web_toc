@@ -18,7 +18,7 @@
 #### 5. Title tag in head
 
 ```
-<title> </title>
+<title></title>
 ```
 
 #### 6. Block Elements
