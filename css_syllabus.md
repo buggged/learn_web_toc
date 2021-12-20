@@ -162,6 +162,7 @@ hsla(120, 10%, 10%, 0.5) << hue[0-360], saturation(50%), lightness/lux(50%), alp
 	absolute
 	fixed
 	sticky
+	z-index
 ```
 
 ### 17. Flexbox
