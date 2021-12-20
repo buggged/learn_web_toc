@@ -167,9 +167,12 @@ hsla(120, 10%, 10%, 0.5) << hue[0-360], saturation(50%), lightness/lux(50%), alp
 ### 17. Flexbox
 
 ```
+---- Written on parent element ----
 	display: flex;
 	justify-content
 	align-items
+
+---- Written on child element ----
 	justify-self
 	align-self
 	flex
